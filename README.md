@@ -1,17 +1,16 @@
 # QIRA
+[![Build Status](https://travis-ci.org/BinaryAnalysisPlatform/qira.svg?branch=master)](https://travis-ci.org/BinaryAnalysisPlatform/qira)
 
-[![Join the chat at https://gitter.im/BinaryAnalysisPlatform/qira](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BinaryAnalysisPlatform/qira?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/BinaryAnalysisPlatform/qira.svg?branch=master)](https://travis-ci.org/BinaryAnalysisPlatform/qira)
+## This version of Qira is maintained by the Injection Software Development project
+
+**This is a highly unofficial fork, and is only updated as needed. Feel free to submit merge requests, but since we didn't write this it may take a while for us to accept new things. Our goal is to keep this up and running. Major feature updates are not a primary focus so don't expect any**
 
 * QIRA is a competitor to strace and gdb
 * See http://qira.me/ for high level usage information
 * All QIRA code is released under GPLv2 or BSD
 * Other code in this repo released under its respective license
 
-## Installing release
-
-See instructions on [qira.me](http://qira.me/) to install 1.2
-
-## Installing trunk
+## Installing latest maintained by Injection
 
 <pre>
 cd ~/
