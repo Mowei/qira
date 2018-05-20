@@ -14,7 +14,7 @@
 
 <pre>
 cd ~/
-git clone https://github.com/BinaryAnalysisPlatform/qira.git
+git clone https://github.com/InjectionSoftwareDevelopment/qira
 cd qira/
 ./install.sh
 </pre>
