@@ -3,7 +3,7 @@
     "version": "1.2",
     "platform": "nix",
     "progress": "100%",
-    "state": "in-progress",
+    "state": "done",
     "released": true,
     "release_version": "1.2",
     "download_url": "https://github.com/InjectionSoftwareDevelopment/qira"
