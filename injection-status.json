@@ -1,10 +1,10 @@
 {
     "name": "Qira (Injection Build)",
     "version": "1.2",
-    "platform": "web",
-    "progress": "90%",
+    "platform": "nix",
+    "progress": "100%",
     "state": "in-progress",
-    "released": false,
+    "released": true,
     "release_version": "1.2",
     "download_url": "https://github.com/InjectionSoftwareDevelopment/qira"
 }
