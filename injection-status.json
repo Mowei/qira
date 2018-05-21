@@ -6,5 +6,7 @@
     "state": "done",
     "released": true,
     "release_version": "1.2",
-    "download_url": "https://github.com/InjectionSoftwareDevelopment/qira"
+    "download_url": "https://github.com/InjectionSoftwareDevelopment/qira",
+    "featured": false,
+    "featured_image": ""
 }
